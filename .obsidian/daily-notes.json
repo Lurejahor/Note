@@ -1,0 +1,6 @@
+{
+  "folder": "1.Daily Note/日记",
+  "format": "YYYY-MM-DD-第WW周ddd",
+  "template": "1.Daily Note/模板/YYYY-MM-DD-第WW周ddd",
+  "autorun": false
+}

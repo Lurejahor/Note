@@ -1,0 +1,20 @@
+{
+  "showLineNumber": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "0.Sand Box",
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
